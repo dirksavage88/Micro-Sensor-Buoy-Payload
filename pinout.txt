@@ -1,0 +1,9 @@
+Arduino Pins    RFM95        BME688
+5v              VIN           VIN
+GND             GND           GND
+D2              G0           
+D13             SCL           SCK
+D12             MISO          SDO
+D11             MOSI          SDI
+D10                           CS
+D4              CS
